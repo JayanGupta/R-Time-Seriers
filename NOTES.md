@@ -166,3 +166,7 @@ This document tracks engineering milestones, experiment logs, parameter optimiza
 - **Focus**: refactor: optimize Auto-ARIMA parameter search logic
 - **Technical Summary**: Configured auto.arima with stepwise=FALSE and approximation=FALSE for optimal AICc.
 
+### Milestone Log - 2025-12-14 (10:15)
+- **Focus**: docs: add seasonal decomposition (STL / Classical) documentation
+- **Technical Summary**: Analyzed trend, seasonal, and irregular residual components.
+
