@@ -174,3 +174,7 @@ This document tracks engineering milestones, experiment logs, parameter optimiza
 - **Focus**: docs: update Augmented Dickey-Fuller (ADF) test notes
 - **Technical Summary**: Documented stationarity criteria and p-value thresholds for differencing.
 
+### Milestone Log - 2025-12-25 (10:30)
+- **Focus**: refactor: optimize Auto-ARIMA parameter search logic
+- **Technical Summary**: Configured auto.arima with stepwise=FALSE and approximation=FALSE for optimal AICc.
+
