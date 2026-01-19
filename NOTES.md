@@ -254,3 +254,7 @@ This document tracks engineering milestones, experiment logs, parameter optimiza
 - **Focus**: docs: add seasonal decomposition (STL / Classical) documentation
 - **Technical Summary**: Analyzed trend, seasonal, and irregular residual components.
 
+### Milestone Log - 2026-01-19 (10:23)
+- **Focus**: docs: update Augmented Dickey-Fuller (ADF) test notes
+- **Technical Summary**: Documented stationarity criteria and p-value thresholds for differencing.
+
